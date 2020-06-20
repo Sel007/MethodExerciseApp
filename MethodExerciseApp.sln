@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodExerciseConsoleUI", "MethodExerciseConsoleUI\MethodExerciseConsoleUI.csproj", "{B1FAAC01-F3F3-4E09-8EA1-D7F888C3B6D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FAAC01-F3F3-4E09-8EA1-D7F888C3B6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FAAC01-F3F3-4E09-8EA1-D7F888C3B6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FAAC01-F3F3-4E09-8EA1-D7F888C3B6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FAAC01-F3F3-4E09-8EA1-D7F888C3B6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {173C0CA9-A827-41EC-8229-575E7C09517F}
+	EndGlobalSection
+EndGlobal
